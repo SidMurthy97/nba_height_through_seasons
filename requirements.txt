@@ -1,0 +1,9 @@
+pandas 
+matplotlib
+seaborn
+tqdm
+selenium
+requests
+pprintpp
+numpy
+beautifulsoup4
